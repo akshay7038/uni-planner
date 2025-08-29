@@ -138,7 +138,7 @@ export default function Page() {
         <div className="flex flex-col sm:flex-row gap-3 items-stretch sm:items-center mb-6">
           <div className="flex-1 flex items-center gap-2">
             <div className="relative w-full">
-              <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-slate-500" />
+              <SearchIcon className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-slate-500" />
               <Input value={query} onChange={(e) => setQuery(e.target.value)} placeholder="Search by course or title..." className="pl-9" />
             </div>
             <div>
