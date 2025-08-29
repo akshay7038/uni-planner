@@ -5,6 +5,8 @@ import { Badge } from "./ui/badge";
 import { Button } from "./ui/button";
 import { Input } from "./ui/input";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "./ui/select";
+import { CalendarDays, Clock, Filter, Search as SearchIcon, Download, AlertTriangle, Info, Bug } from "lucide-react";
+
 
 // framer-motion is installed, but we can omit its usage here to avoid SSR hiccups
 // import { motion } from "framer-motion";
