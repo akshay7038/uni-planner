@@ -23,7 +23,7 @@ const RAW_DATA = [
       { title: "Weekly Quiz", weight: 10, recurring: true, note: "Weekly" },
   ]},
   { course: "DSA COMP9123", color: "emerald", items: [
-      { title: "Assignment 1", weight: 10, due: "2025-08-31" },
+      { title: "Assignment 1", weight: 10, due: "2025-09-07" },
       { title: "Assignment 2", weight: 15, due: "2025-10-12" },
       { title: "Assignment 3", weight: 15, due: "2025-11-07" },
       { title: "Weekly Quiz", weight: 10, recurring: true, note: "Weekly" },
