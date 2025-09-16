@@ -30,7 +30,7 @@ const RAW_DATA = [
       { title: "Final Exam", weight: 50 },
   ]},
   { course: "Project Management in IT INFO6007", color: "amber", items: [
-      { title: "Viva", weight: 20, dueLabel: "Week 8" },
+      { title: "Viva", weight: 20, dueLabel: "2025-09-22" },
       { title: "Group Project", weight: 30, dueLabel: "Week 12" },
   ]},
 ];
