@@ -13,17 +13,17 @@ import { CalendarDays, Clock, Filter, Search as SearchIcon, Download, AlertTrian
 
 const RAW_DATA = [
   { course: "PDS COMP5310", color: "rose", items: [
-      { title: "Group Assignment 1", weight: 15, due: "2025-09-14" },
+      { title: "Group Assignment 1", weight: 15, },
       { title: "Group Assignment 2", weight: 25, due: "2025-10-26" },
       { title: "Final Exam", weight: 60, note: "Minimum 40% to Pass" },
   ]},
   { course: "Statistics STATS5002", color: "indigo", items: [
-      { title: "Quiz", weight: 20, due: "2025-09-22" },
+      { title: "Quiz", weight: 20, },
       { title: "Individual Assignment", weight: 10, due: "2025-11-02" },
       { title: "Weekly Quiz", weight: 10, recurring: true, note: "Weekly" },
   ]},
   { course: "DSA COMP9123", color: "emerald", items: [
-      { title: "Assignment 1", weight: 10, due: "2025-09-07" },
+      { title: "Assignment 1", weight: 10, },
       { title: "Assignment 2", weight: 15, due: "2025-10-12" },
       { title: "Assignment 3", weight: 15, due: "2025-11-07" },
       { title: "Weekly Quiz", weight: 10, recurring: true, note: "Weekly" },
